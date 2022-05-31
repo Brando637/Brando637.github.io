@@ -1,6 +1,0 @@
-package.json(Setup of the page)
-
-NPM scripts allow for having one or multiple commands executed at the same time.
-These commands are strings that would have been entered in the command line.
-predeploy: Script initiates after running our deploy Script
-deploy: Bundles application for deployment
